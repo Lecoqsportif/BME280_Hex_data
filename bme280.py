@@ -32,7 +32,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-# b
 import time
 from ustruct import unpack, unpack_from
 from array import array
